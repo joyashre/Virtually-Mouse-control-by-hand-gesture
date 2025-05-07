@@ -33,9 +33,9 @@ pip install opencv-python mediapipe pyautogui pynput
 
 Make sure util.py contains functions like:
 
-get_angle(p1, p2, p3) – returns the angle between 3 landmarks
+get_angle – returns the angle between 3 landmarks
 
-get_distance([p1, p2]) – returns the Euclidean distance
+get_distance – returns the distance
 
 ## 🎮 Usage
 
