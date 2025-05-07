@@ -4,6 +4,14 @@ Control your mouse with just your hand using your webcam!
 
 This Python-based project leverages MediaPipe, OpenCV, and pyautogui to track your hand and perform actions like moving the cursor, clicking, double-clicking, and taking screenshots — all using intuitive finger gestures.
 
+
+[result output](https://github.com/user-attachments/assets/b56813fe-b1cf-45d5-8b8e-3a6a44208b05)
+
+for know more about MediaPipe : https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
+
+![mediapipe](https://github.com/user-attachments/assets/e6d374ca-38c8-4b85-bdb3-4fd914bd2989)
+
+
 ## 🚀 Features
 
 🖱️ Move Cursor – Control mouse movement with your index finger
